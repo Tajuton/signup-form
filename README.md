@@ -13,5 +13,5 @@ This installs node_modules. After that you can run the app with\
 Open http://localhost:3000 to view the running app in the browser
 
 ## About code
-All code I have done found in App.js. All styles I have done found in App.css. 
+All code I have done found in src/App.js. All styles I have done found in src/App.css. 
 

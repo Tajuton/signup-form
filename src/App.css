@@ -1,0 +1,175 @@
+/**
+ * CSS-styles for Sign up -form 
+ * @author Tuukka Jurvakainen <tuukka.jurvakainen@gmail.com>
+ */
+
+header{
+  background-color: #adb5bd;
+  width:100%;
+  height: 96px;
+  line-height: 92px;
+  min-width: 912px;
+  margin: 0 0 0 0;
+}
+
+.logo{
+  background-color: #ffffff;
+  width:32px;
+  height: 32px;
+  position: absolute;
+  vertical-align:middle;
+  margin: 32px 0px 0px 32px;
+}
+
+.header-text{
+  color: #ffffff;
+  font-weight: normal;
+  margin: 0 0 0 70px;
+}
+
+.main-content{
+  width: 912px;
+  margin: auto;
+}
+
+h1{
+  font-weight: normal;
+}
+
+.add-form{
+  margin: 10px 0 10px 0;
+  background-color: #ffffff;
+  width: 100%;
+}
+
+.row{
+  width: 100%;
+}
+
+.add-input{
+  width: 170px;
+  height: 18px;
+  margin: 16px;
+  padding: 10px;
+}
+
+input{
+  line-height: 38px;
+  border: 1px solid #eeeeee;
+  font-size: 16px;
+  padding: 0 0 0 16px;
+  background-color: #f9f9f9;
+}
+
+input:focus{
+  background-color: #ffffff;
+}
+
+button{
+  font-size: 16px;
+  font-weight: 500;
+  width: 70px;
+  height: 40px;
+  line-height: 40px;
+  padding: 0px;
+  margin: 0;
+  border: 0px solid #ededed;
+  color: #555555;
+  background-color: #ededed;
+}
+
+button:hover {
+  background-color: #bbbbbb;
+}
+
+button:active {
+  background-color: #999999;
+}
+
+.add-button{
+  margin: 0 0 0 120px;
+  width: 100px;
+}
+
+.cancel-button{
+  color: #07f;
+}
+
+.save-button{
+  background-color: #07f;
+  color: #ffffff;
+}
+
+
+.errors{
+  color: red;
+  padding: 16px;
+}
+
+.not-show{
+  display: none;
+}
+
+.show{
+  display: inline;
+}
+
+.table {
+  text-align: left;
+  margin: 5px auto;
+  background-color: #ffffff;
+  width: 100%;
+  max-width: 912px;
+  border-collapse: collapse;
+}
+
+tr{
+  border-bottom: 1px solid #ccc !important;
+}
+
+td{
+  color: #505050;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  max-width: 200px;
+  padding: 24px 24px 23px 24px;
+  white-space:pre-wrap; 
+  word-wrap:break-word;
+}
+
+th{
+  height: 47px;
+  max-width: 200px;
+  padding: 0 10px 0 24px;
+  color: #757575;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+}
+
+.helper {
+  vertical-align: middle;
+}
+
+.icon{
+  vertical-align: middle;
+}
+
+.icon-cell{
+  padding: 0 0 0 0;
+}
+
+.icon-cell:hover .icon{
+    fill: #bbbbbb;
+    height: 24px;
+    width: 24px;
+}
+
+.icon-cell .icon{
+    fill: #909090;
+    height: 24px;
+    width: 24px;
+
+}
+
