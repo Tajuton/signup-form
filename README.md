@@ -1,6 +1,6 @@
 # Signup form - React.js example
 
-I made this html5/react app for Digia.
+I made this html5/react app for Digia. App hasn't backend - it is just a demo. You can add, edit, delete and sort participants.
 
 ## Live build on the internet
 You can test the app here: http://jurvakainen.azurewebsites.net/
