@@ -3,7 +3,7 @@
 I made this html5/react app for Digia. App hasn't backend - it is just a frontend demo. You can add, edit, delete and sort participants.
 
 ## Live build on the internet
-You can test the app here: http://jurvakainen.azurewebsites.net/
+You can test the app here: http://jurvakainen.s3-website.eu-central-1.amazonaws.com/
 
 ## Installation guide
 Clone the repository. Open command line and go to the project folder. Say\
